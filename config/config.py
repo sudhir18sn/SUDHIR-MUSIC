@@ -53,7 +53,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/MISH0009/Extra-plugins",
+    "https://github.com",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
